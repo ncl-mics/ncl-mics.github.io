@@ -8,16 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
+- name: F1L1
   photo: rock.jpg
   info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  email: xyz
   number_educ: 0
   education1:
 
-- name: João van der Ven
+- name: F2L2
   photo: rock.jpg
   info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  email: xyz
   number_educ: 0
   education1:

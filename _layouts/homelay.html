@@ -2,11 +2,22 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the Neuromorphic Computing Lab @ MICS</h1>
+  <!--<div id="homeid" class="col-sm-8">-->
+  <div id="homeid" class="row">
+        <h1>Neuromorphic Computing Lab (NCL) @ MICS</h1>
 
 	{{ content }}
+  <br>
+  <br>
   </div>
-  <div id="newsid" class="col-sm-4" >
+
+  <!--<div id="newsid" class="col-sm-4" >-->
+  <div id="newsid" class="row">
+  <div class="col-sm-8" >
 	{% include news.html %}
   </div>
+  <div class="col-sm-4" >
+	{% include news.html %}
+  </div>
+  </div>
+
